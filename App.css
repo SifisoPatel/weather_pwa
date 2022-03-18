@@ -55,6 +55,14 @@ p {
     text-align: center;
 }
 
+.city-percip{ 
+    font-size: 5rem;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #1e2432;
+    text-align: center;
+}
+
 .city sup {
     font-size: 0.5em;
 }
